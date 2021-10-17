@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17985" start="node11" appversion="6.1.9">
+  <panorama id="node11">
+    <input levelbias="0.400" width="2157" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/Outside2 (FILLED)/c%c_l%r_%y_%x.jpg" levelingroll="0" height="2157" levelingpitch="0">
+      <level width="2157" preload="0" height="2157" predecode="0"/>
+      <level width="1078" preload="0" height="1078" predecode="0"/>
+      <level width="539" preload="0" height="539" predecode="0"/>
+      <level width="269" preload="1" height="269" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-98.08" tilt="4.36" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="2/6/2018 9:53 AM" nodeid="node11" longitude="" heading="0" title="Building Exterior" info="" latitude="" comment="Patio" tags="360|Panos|menu" copyright="" source="" description="The experienced team of commercial real estate advisors that make up FrontStreet of Gainesville is here to meet your company’s real estate needs, regardless of your business line. We offer a full suite of CRE services in all major industry sectors – office, industrial, retail, mixed-use, life science, development and investment – ensuring that your specific real estate requirements are expertly managed."/>
+    <hotspots wordwrap="1" width="180" height="0">
+      <label borderalpha="1" backgroundalpha="1" wordwrap="1" width="180" border="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" background="1" height="0"/>
+      <polystyle borderalpha="0" backgroundalpha="0.392157" mode="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media>
+      <sound pan="-1.000" tilt="-1.000" id="_background" mode="0" loop="-1" level="1.000" nodechangekeep="0" pansize="10.000" startmutedmobile="0" tiltsize="10.000" ambientlevel="0.000" field="90.000">
+        <source url="media/Innovation Square - Gainesville, FL.mp4"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomoutpause="0" zoomout="0" type="crossdissolve" softedge="0" blendtime="0.5" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" width="2155" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/Patio (FILLED)/c%c_l%r_%y_%x.jpg" levelingroll="0" height="2155" levelingpitch="0">
+      <level width="2155" preload="0" height="2155" predecode="0"/>
+      <level width="1077" preload="0" height="1077" predecode="0"/>
+      <level width="538" preload="0" height="538" predecode="0"/>
+      <level width="269" preload="1" height="269" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="2/6/2018 10:05 AM" nodeid="node6" longitude="" heading="0" title="Patio" info="" latitude="" comment="Lobby" tags="Panos|360|menu" copyright="" source="" description="At FrontStreet, we believe in creating positive impact wherever we go.&#xa;&#xa;There is a vital role for commercial real estate to create healthy, productive workplaces for employees; cities that are centers of prosperity for its citizens; and built spaces and places that create a net benefit to the economy, the environment and the community."/>
+    <hotspots wordwrap="1" width="180" height="0">
+      <label borderalpha="1" backgroundalpha="1" wordwrap="1" width="180" border="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" background="1" height="0"/>
+      <polystyle borderalpha="0" backgroundalpha="0.392157" mode="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="0" zoomout="0" type="crossdissolve" softedge="0" blendtime="0.5" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" width="2158" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/Lobby (FILLED)/c%c_l%r_%y_%x.jpg" levelingroll="0" height="2158" levelingpitch="0">
+      <level width="2158" preload="0" height="2158" predecode="0"/>
+      <level width="1079" preload="0" height="1079" predecode="0"/>
+      <level width="539" preload="0" height="539" predecode="0"/>
+      <level width="269" preload="1" height="269" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-24.61" tilt="-1.38" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="2/6/2018 10:38 AM" nodeid="node10" longitude="" heading="0" title="Lobby" info="" latitude="" comment="Lounge" tags="Panos|360|menu" copyright="" source="" description="Our nimble, agile team has global insight, local market expertise and access to some of the smartest tools in the industry – all at the ready to work on creating your competitive advantage. As a private company, you collaborate with empowered partners who are always invested in your success."/>
+    <hotspots wordwrap="1" width="180" height="0">
+      <label borderalpha="1" backgroundalpha="1" wordwrap="1" width="180" border="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" background="1" height="0"/>
+      <polystyle borderalpha="0" backgroundalpha="0.392157" mode="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="0" zoomout="0" type="crossdissolve" softedge="0" blendtime="0.5" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" width="2157" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/LoungeArea (FILLED)/c%c_l%r_%y_%x.jpg" levelingroll="0" height="2157" levelingpitch="0">
+      <level width="2157" preload="0" height="2157" predecode="0"/>
+      <level width="1078" preload="0" height="1078" predecode="0"/>
+      <level width="539" preload="0" height="539" predecode="0"/>
+      <level width="269" preload="1" height="269" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="124.8" tilt="-12.25" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="1/11/2018 12:28 PM" nodeid="node4" longitude="" heading="0" title="Lounge" info="" latitude="" comment="Conference Room 1" tags="Panos|360|menu" copyright="" source="" description="FrontStreet’s brokerage team in Gainesville has consistently completed major leasing and investment sales transactions across all asset types. We’ve worked on the behalf of tenants, landlords, investors, vendors and buyers alike, including many large national and international corporate clients."/>
+    <hotspots wordwrap="1" width="180" height="0">
+      <label borderalpha="1" backgroundalpha="1" wordwrap="1" width="180" border="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" background="1" height="0"/>
+      <polystyle borderalpha="0" backgroundalpha="0.392157" mode="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="0" zoomout="0" type="crossdissolve" softedge="0" blendtime="0.5" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" width="2159" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/Conference Room (FILLED)/c%c_l%r_%y_%x.jpg" levelingroll="0" height="2159" levelingpitch="0">
+      <level width="2159" preload="0" height="2159" predecode="0"/>
+      <level width="1079" preload="0" height="1079" predecode="0"/>
+      <level width="539" preload="0" height="539" predecode="0"/>
+      <level width="269" preload="1" height="269" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="73.12" tilt="-2.39" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="2/6/2018 10:20 AM" nodeid="node8" longitude="" heading="0" title="Conference Room 1" info="" latitude="" comment="Conference Room 2" tags="Panos|360|menu" copyright="" source="" description="Whether you are an owner, investor, occupier or developer, we deliver results aligned with your strategic business objectives. Our Gainesville commercial real estate advisors are here to support your initiatives, add value, and build a competitive advantage for your organization."/>
+    <hotspots wordwrap="1" width="180" height="0">
+      <label borderalpha="1" backgroundalpha="1" wordwrap="1" width="180" border="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" background="1" height="0"/>
+      <polystyle borderalpha="0" backgroundalpha="0.392157" mode="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="0" zoomout="0" type="crossdissolve" softedge="0" blendtime="0.5" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" width="2166" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/Conference Room2 (FILLED)/c%c_l%r_%y_%x.jpg" levelingroll="0" height="2166" levelingpitch="0">
+      <level width="2166" preload="0" height="2166" predecode="0"/>
+      <level width="1083" preload="0" height="1083" predecode="0"/>
+      <level width="541" preload="0" height="541" predecode="0"/>
+      <level width="270" preload="1" height="270" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-111.38" tilt="-7.74" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="1/11/2018 11:04 AM" nodeid="node9" longitude="" heading="0" title="Conference Room 2" info="" latitude="" comment="Office" tags="360|menu|Panos" copyright="" source="" description="Our investment and leasing opportunities include office, industrial, warehouse, retail, multi-family and land properties."/>
+    <hotspots wordwrap="1" width="180" height="0">
+      <label borderalpha="1" backgroundalpha="1" wordwrap="1" width="180" border="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" background="1" height="0"/>
+      <polystyle borderalpha="0" backgroundalpha="0.392157" mode="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="0" zoomout="0" type="crossdissolve" softedge="0" blendtime="0.5" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" width="2174" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/Nick's Office (FILLED)/c%c_l%r_%y_%x.jpg" levelingroll="0" height="2174" levelingpitch="0">
+      <level width="2174" preload="0" height="2174" predecode="0"/>
+      <level width="1087" preload="0" height="1087" predecode="0"/>
+      <level width="543" preload="0" height="543" predecode="0"/>
+      <level width="271" preload="1" height="271" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-122.58" tilt="-11.14" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="1/11/2018 10:17 AM" nodeid="node12" longitude="" heading="0" title="Office" info="" latitude="" comment="Break Room" tags="360|menu|Nick's_Office" copyright="" source="" description="We also offer specialized spaces for healthcare, automotive and more."/>
+    <hotspots wordwrap="1" width="180" height="0">
+      <label borderalpha="1" backgroundalpha="1" wordwrap="1" width="180" border="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" background="1" height="0"/>
+      <polystyle borderalpha="0" backgroundalpha="0.392157" mode="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="0" zoomout="0" type="crossdissolve" softedge="0" blendtime="0.5" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" width="2159" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/BreakRoom (FILLED)/c%c_l%r_%y_%x.jpg" levelingroll="0" height="2159" levelingpitch="0">
+      <level width="2159" preload="0" height="2159" predecode="0"/>
+      <level width="1079" preload="0" height="1079" predecode="0"/>
+      <level width="539" preload="0" height="539" predecode="0"/>
+      <level width="269" preload="1" height="269" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="7.78" tilt="-9.65" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="last" author="" datetime="2/6/2018 10:25 AM" nodeid="node7" longitude="" heading="0" title="Break Room" info="" latitude="" comment="Building Exerior" tags="360|menu|Panos" copyright="" source="" description="Front Street Commercial Real Estate Group is a full service Gainesville Commercial Real Estate firm. We offer commercial real estate brokerage, leasing, investment sales, financing, commercial property management."/>
+    <hotspots wordwrap="1" width="180" height="0">
+      <label borderalpha="1" backgroundalpha="1" wordwrap="1" width="180" border="1" enabled="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" background="1" height="0"/>
+      <polystyle borderalpha="0" backgroundalpha="0.392157" mode="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="0" zoomout="0" type="crossdissolve" softedge="0" blendtime="0.5" enabled="1" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" author="" datetime="" nodeid="master" longitude="" heading="0" title="" info="" latitude="" comment="" tags="" copyright="" source="" description=""/>
+  </masternode>
+</tour>
